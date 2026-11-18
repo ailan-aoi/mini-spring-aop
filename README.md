@@ -11,8 +11,8 @@
 - `JDKProxy` / `CGLibProxy`：两种代理
 - `IntercepterChain`：把多个拦截器串起来
 
-源码在 `EasySpringAop/src`，包名 `com.mec.aop`。目录是当时的 Eclipse 工程，依赖放在 `src/libs`（含 cglib）。
+源码在 `mini-spring-aop/src`，包名 `com.mec.aop`。目录是当时的 Eclipse 工程，依赖放在 `src/libs`（含 cglib）。
 
 ## 状态
 
-学习代码，源码按最初上传的样子保留。仓库曾用名 `easySpringAop`，旧地址会重定向到这里。
+学习代码，Java 包名和实现按最初上传的样子保留。仓库曾用名 `easySpringAop`，旧地址会重定向到这里。
